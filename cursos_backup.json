@@ -1,0 +1,570 @@
+[
+  {
+    "n": "1",
+    "titulo": "Community Manager",
+    "sector": "Marketing",
+    "duracion": "21 horas",
+    "sintesis": "\"Es el profesional encargado de crear",
+    "entidad": " gestionar y mantener comunidades en redes sociales alrededor de una marca; plan de marketing"
+  },
+  {
+    "n": "2",
+    "titulo": "Introducción a la Ciberseguridad",
+    "sector": "Programación",
+    "duracion": "24 horas",
+    "sintesis": "Conjunto de procedimientos y herramientas para proteger la información generada y procesada en sistemas electrónicos.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "3",
+    "titulo": "Ciberseguridad y Protección de Datos",
+    "sector": "Programación",
+    "duracion": "14 horas",
+    "sintesis": "Phishing y resguardo de datos sensibles; buenas prácticas para evitar fraudes y robo de credenciales.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "4",
+    "titulo": "Programación de Videojuegos con Unity",
+    "sector": "Gaming",
+    "duracion": "23 horas",
+    "sintesis": "\"Introducción práctica a Unity: instalación",
+    "entidad": " interfaz y primeros pasos para crear videojuegos.\""
+  },
+  {
+    "n": "5",
+    "titulo": "Introducción a la Robótica",
+    "sector": "Robótica",
+    "duracion": "12 horas",
+    "sintesis": "\"La robótica integra mecánica",
+    "entidad": " electrónica"
+  },
+  {
+    "n": "6",
+    "titulo": "Testing QA",
+    "sector": "Programación",
+    "duracion": "10 horas",
+    "sintesis": "\"Aseguramiento de calidad de software; conceptos de pruebas",
+    "entidad": " verificación y validación.\""
+  },
+  {
+    "n": "7",
+    "titulo": "Introducción a la Inteligencia Artificial",
+    "sector": "Inteligencia Artificial",
+    "duracion": "22 horas",
+    "sintesis": "\"Datos",
+    "entidad": " cómputo y algoritmos para aprender patrones automáticamente y resolver tareas.\""
+  },
+  {
+    "n": "8",
+    "titulo": "Introducción al Blockchain",
+    "sector": "Programación",
+    "duracion": "20 horas",
+    "sintesis": "Fundamentos de blockchain y su potencial disruptivo en múltiples industrias.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "9",
+    "titulo": "Introducción a Java",
+    "sector": "Programación",
+    "duracion": "19 horas",
+    "sintesis": "Bases del lenguaje Java para aplicaciones web y de escritorio.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "10",
+    "titulo": "Lenguaje Python",
+    "sector": "Programación",
+    "duracion": "21 horas",
+    "sintesis": "Aprendizaje de programación con Python a través de programas simples.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "11",
+    "titulo": "Introducción al Diseño UX",
+    "sector": "Diseño",
+    "duracion": "7 horas",
+    "sintesis": "\"Conceptos esenciales de UX: investigación",
+    "entidad": " iteración y mejora de la experiencia de usuario.\""
+  },
+  {
+    "n": "12",
+    "titulo": "Introducción a las Competencias Digitales",
+    "sector": "Programación",
+    "duracion": "17 horas",
+    "sintesis": "\"Ofimática",
+    "entidad": " hardware y conocimientos digitales clave para el trabajo de oficina.\""
+  },
+  {
+    "n": "13",
+    "titulo": "Planilla de Cálculo",
+    "sector": "Programación",
+    "duracion": "8 horas",
+    "sintesis": "Fundamentos para operar hojas de cálculo de forma efectiva.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "14",
+    "titulo": "Diseño web HTML & CSS",
+    "sector": "Diseño",
+    "duracion": "30 horas",
+    "sintesis": "\"Fundamentos de HTML y CSS; estructura",
+    "entidad": " semántica y estilos para la web moderna.\""
+  },
+  {
+    "n": "15",
+    "titulo": "Desarrollador web",
+    "sector": "Programación",
+    "duracion": "30 horas",
+    "sintesis": "Sitios web interactivos con HTML/CSS avanzados y JavaScript.",
+    "entidad": "Matic"
+  },
+  {
+    "n": "16",
+    "titulo": "Programación con Python",
+    "sector": "Programación",
+    "duracion": "30 horas",
+    "sintesis": "\"Principios de computación",
+    "entidad": " algoritmos"
+  },
+  {
+    "n": "17",
+    "titulo": "Introducción al mundo digital",
+    "sector": "Programación",
+    "duracion": "\"1",
+    "sintesis": "5 horas\"",
+    "entidad": "\"Panorama de lo digital vs. analógico"
+  },
+  {
+    "n": "18",
+    "titulo": "Creatividad e innovación – Nivel Inicial",
+    "sector": "Diseño",
+    "duracion": "1 hora",
+    "sintesis": "Entrenamiento de creatividad e innovación y autoconfianza aplicada al empleo.",
+    "entidad": "Oportunidades Únicas – Accenture"
+  },
+  {
+    "n": "19",
+    "titulo": "Introducción a la Programación",
+    "sector": "Programación",
+    "duracion": "\"1",
+    "sintesis": "2 horas\"",
+    "entidad": "\"Conceptos básicos"
+  },
+  {
+    "n": "20",
+    "titulo": "Fundamentos del diseño gráfico",
+    "sector": "Diseño",
+    "duracion": "\"3",
+    "sintesis": "3 horas\"",
+    "entidad": "\"Lenguaje gráfico"
+  },
+  {
+    "n": "21",
+    "titulo": "Transformadores digitales",
+    "sector": "Inteligencia Artificial",
+    "duracion": "40 horas",
+    "sintesis": "\"Uso innovador de tecnología",
+    "entidad": " presencia en redes e integración de IA en la vida diaria y el trabajo.\""
+  },
+  {
+    "n": "22",
+    "titulo": "Liderazgo Transformador: Sembrando el Camino hacia la Excelencia",
+    "sector": "Diseño",
+    "duracion": "40 horas",
+    "sintesis": "\"Desarrollo de liderazgo efectivo y consciente en ámbitos laborales",
+    "entidad": " comunitarios y educativos.\""
+  },
+  {
+    "n": "23",
+    "titulo": "SQL Básico – Bases de datos",
+    "sector": "Programación",
+    "duracion": "10 horas",
+    "sintesis": "\"Modelo E‑R",
+    "entidad": " claves"
+  },
+  {
+    "n": "24",
+    "titulo": "Canales y herramientas digitales para tu aprendizaje",
+    "sector": "Programación",
+    "duracion": "\"1",
+    "sintesis": "5 horas\"",
+    "entidad": "\"Uso de videos"
+  },
+  {
+    "n": "25",
+    "titulo": "Capacidad de relación – nivel inicial",
+    "sector": "Diseño",
+    "duracion": "1 hora",
+    "sintesis": "\"Comunicación asertiva",
+    "entidad": " redes de contacto y habilidades sociales.\""
+  },
+  {
+    "n": "26",
+    "titulo": "¿Te gustaría explorar el mundo de la programación?",
+    "sector": "Programación",
+    "duracion": "8 horas",
+    "sintesis": "Programming Garage: primeros pasos en programación con proyectos reales.",
+    "entidad": "Globant"
+  },
+  {
+    "n": "27",
+    "titulo": "IA desde cero",
+    "sector": "Inteligencia Artificial",
+    "duracion": "12 horas",
+    "sintesis": "Base conceptual y usos de la inteligencia artificial en vida diaria y trabajo.",
+    "entidad": "Digital House"
+  },
+  {
+    "n": "28",
+    "titulo": "E-Commerce Manager",
+    "sector": "Marketing",
+    "duracion": "24 horas",
+    "sintesis": "Gestión de tiendas online y marketplaces; estrategias de venta digital.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "29",
+    "titulo": "Digital Marketer",
+    "sector": "Marketing",
+    "duracion": "17 horas",
+    "sintesis": "\"SEO/SEM",
+    "entidad": " segmentación y análisis de datos para posicionamiento y marketing.\""
+  },
+  {
+    "n": "30",
+    "titulo": "Diseño Gráfico",
+    "sector": "Diseño",
+    "duracion": "24 horas",
+    "sintesis": "Diseño como medio para representar y comunicar ideas visualmente.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "31",
+    "titulo": "Branding",
+    "sector": "Marketing",
+    "duracion": "25 horas",
+    "sintesis": "Metodologías de branding estratégico y posicionamiento de marca.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "32",
+    "titulo": "Soluciones de fijación",
+    "sector": "Construcciones Innovadoras",
+    "duracion": "2 horas",
+    "sintesis": "Aplicaciones y formas de instalación en instalaciones sanitarias.",
+    "entidad": "Fischer"
+  },
+  {
+    "n": "33",
+    "titulo": "Hacelo vos mismo – DIY‑Do it yourself",
+    "sector": "Construcciones Innovadoras",
+    "duracion": "2 horas",
+    "sintesis": "Soluciones de fijación para resolver instalaciones por cuenta propia.",
+    "entidad": "Fischer"
+  },
+  {
+    "n": "34",
+    "titulo": "Sistemas constructivos industrializados",
+    "sector": "Construcciones Innovadoras",
+    "duracion": "\"1",
+    "sintesis": "5 horas\"",
+    "entidad": "Soluciones de fijación para sistemas constructivos industrializados."
+  },
+  {
+    "n": "35",
+    "titulo": "Profesionales de ingeniería",
+    "sector": "Construcciones Innovadoras",
+    "duracion": "\"2",
+    "sintesis": "5 horas\"",
+    "entidad": "Soluciones de fijación para proyectos de ingeniería."
+  },
+  {
+    "n": "36",
+    "titulo": "Google – Introducción a Campañas de Búsqueda",
+    "sector": "Marketing",
+    "duracion": "10 horas",
+    "sintesis": "\"Principios de Google Ads en búsqueda: keywords",
+    "entidad": " anuncios y optimización.\""
+  },
+  {
+    "n": "37",
+    "titulo": "Google – Campañas de Display",
+    "sector": "Marketing",
+    "duracion": "10 horas",
+    "sintesis": "\"Red de Display",
+    "entidad": " segmentación"
+  },
+  {
+    "n": "38",
+    "titulo": "Reporte de campañas",
+    "sector": "Marketing",
+    "duracion": "10 horas",
+    "sintesis": "Métricas y KPIs; estructura de reportes y optimización basada en datos.",
+    "entidad": "Aleph"
+  },
+  {
+    "n": "39",
+    "titulo": "Introducción a la publicidad programática",
+    "sector": "Marketing",
+    "duracion": "10 horas",
+    "sintesis": "\"Ecosistema programático",
+    "entidad": " DSP/Exchanges y bidding.\""
+  },
+  {
+    "n": "40",
+    "titulo": "Experto en publicidad en LinkedIn",
+    "sector": "Marketing",
+    "duracion": "10 horas",
+    "sintesis": "\"Publicidad B2B en LinkedIn: formatos",
+    "entidad": " medición y optimización.\""
+  },
+  {
+    "n": "41",
+    "titulo": "Anunciarse en Meta",
+    "sector": "Marketing",
+    "duracion": "10 horas",
+    "sintesis": "\"Campañas en Facebook/Instagram: objetivos",
+    "entidad": " segmentación y seguimiento.\""
+  },
+  {
+    "n": "42",
+    "titulo": "Introducción a Facebook‑Meta",
+    "sector": "Marketing",
+    "duracion": "10 horas",
+    "sintesis": "\"Panorama",
+    "entidad": " tipos de anuncios y optimización básica en Meta.\""
+  },
+  {
+    "n": "43",
+    "titulo": "Anunciar en Reddit",
+    "sector": "Marketing",
+    "duracion": "10 horas",
+    "sintesis": "\"Publicidad en Reddit: formatos",
+    "entidad": " audiencias y creatividad por comunidad.\""
+  },
+  {
+    "n": "44",
+    "titulo": "\"Tu voz",
+    "sector": " tu poder: aprendé a comunicar tus ideas\"",
+    "duracion": "Diseño",
+    "sintesis": "1 hora",
+    "entidad": "\"Habilidades de comunicación"
+  },
+  {
+    "n": "45",
+    "titulo": "Cómo hablar con la IA (dominando el prompting)",
+    "sector": "Inteligencia Artificial",
+    "duracion": "1 hora",
+    "sintesis": "\"Qué es un prompt",
+    "entidad": " cómo estructurarlo y técnicas para obtener mejores resultados con IA generativa.\""
+  },
+  {
+    "n": "46",
+    "titulo": "Community Manager y Contenido",
+    "sector": "Marketing",
+    "duracion": "23 horas",
+    "sintesis": "\"Estrategia de contenidos: desarrollo",
+    "entidad": " distribución y promoción multired.\""
+  },
+  {
+    "n": "47",
+    "titulo": "Introducción a la Programación",
+    "sector": "Programación",
+    "duracion": "18 horas",
+    "sintesis": "Conceptos básicos de programación y algoritmia al finalizar el itinerario.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "48",
+    "titulo": "Introducción a la Programación de Videojuegos",
+    "sector": "Gaming",
+    "duracion": "23 horas",
+    "sintesis": "Roles y etapas del desarrollo de videojuegos: de la pre‑producción al lanzamiento.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "49",
+    "titulo": "Electrónica y Arduino para tus propios inventos",
+    "sector": "Robótica",
+    "duracion": "24 horas",
+    "sintesis": "Introducción a electrónica y Arduino para construir dispositivos y prototipos.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "50",
+    "titulo": "Introducción a Big Data",
+    "sector": "Programación",
+    "duracion": "21 horas",
+    "sintesis": "\"Conceptos de big data",
+    "entidad": " volumen y valor de datos para decisiones de negocio.\""
+  },
+  {
+    "n": "51",
+    "titulo": "Analítica de Datos",
+    "sector": "Programación",
+    "duracion": "25 horas",
+    "sintesis": "Identificación de patrones e insights para informar y automatizar decisiones.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "52",
+    "titulo": "Creación de Chatbots",
+    "sector": "Inteligencia Artificial",
+    "duracion": "21 horas",
+    "sintesis": "Diseño de asistentes conversacionales con IA para respuestas automatizadas.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "53",
+    "titulo": "Blockchain y Criptomonedas",
+    "sector": "Programación",
+    "duracion": "18 horas",
+    "sintesis": "Fundamentos de criptomonedas y su impacto en el sistema financiero.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "54",
+    "titulo": "Introducción al Diseño",
+    "sector": "Diseño",
+    "duracion": "24 horas",
+    "sintesis": "Del boceto al prototipo: fundamentos del proceso de diseño.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "55",
+    "titulo": "Diseño e Impresión 3D",
+    "sector": "Diseño",
+    "duracion": "25 horas",
+    "sintesis": "Modelado y fabricación de prototipos con impresión 3D.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "56",
+    "titulo": "Prototipado de Páginas Web (Figma)",
+    "sector": "Diseño",
+    "duracion": "21 horas",
+    "sintesis": "Prototipado web colaborativo con Figma y buenas prácticas de UI.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "57",
+    "titulo": "Lenguaje Java",
+    "sector": "Programación",
+    "duracion": "21 horas",
+    "sintesis": "Java orientado a objetos y uso de interfaces para resolver problemas.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "58",
+    "titulo": "Introducción a C#",
+    "sector": "Programación",
+    "duracion": "25 horas",
+    "sintesis": "Fundamentos de C# dentro del ecosistema .NET de Microsoft.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "59",
+    "titulo": "Procesador de textos",
+    "sector": "Programación",
+    "duracion": "23 horas",
+    "sintesis": "Funciones principales de los procesadores de texto más utilizados.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "60",
+    "titulo": "Presentaciones digitales",
+    "sector": "Programación",
+    "duracion": "17 horas",
+    "sintesis": "Creación y aprovechamiento de presentaciones digitales con enfoque profesional.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "61",
+    "titulo": "Inteligencia Artificial ¿Qué es?",
+    "sector": "Inteligencia Artificial",
+    "duracion": "20 horas",
+    "sintesis": "\"Panorama general de IA y ejemplos cotidianos: asistentes",
+    "entidad": " recomendadores"
+  },
+  {
+    "n": "62",
+    "titulo": "Creación de videojuegos con Scratch",
+    "sector": "Gaming",
+    "duracion": "21 horas",
+    "sintesis": "Programación por bloques para aprender lógica desarrollando juegos en Scratch.",
+    "entidad": "Argentec"
+  },
+  {
+    "n": "63",
+    "titulo": "Introducción al Desarrollo Web – Front End",
+    "sector": "Programación",
+    "duracion": "20 horas",
+    "sintesis": "\"Bases de HTML",
+    "entidad": " CSS y JavaScript para construir interfaces web.\""
+  },
+  {
+    "n": "64",
+    "titulo": "Introducción al Desarrollo Web: Backend",
+    "sector": "Programación",
+    "duracion": "17 horas",
+    "sintesis": "\"Arquitectura de aplicaciones",
+    "entidad": " librerías y frameworks para la capa lógica y de negocio.\""
+  },
+  {
+    "n": "65",
+    "titulo": "Ciberseguridad",
+    "sector": "Programación",
+    "duracion": "23 horas",
+    "sintesis": "\"Riesgos",
+    "entidad": " amenazas y técnicas para proteger sistemas de información en organizaciones.\""
+  },
+  {
+    "n": "66",
+    "titulo": "Instaladores eléctricos",
+    "sector": "Construcciones Innovadoras",
+    "duracion": "3 horas",
+    "sintesis": "\"Montaje de bandejas",
+    "entidad": " cañerías y equipos eléctricos de forma ordenada y segura.\""
+  },
+  {
+    "n": "67",
+    "titulo": "Instaladores sanitarios",
+    "sector": "Construcciones Innovadoras",
+    "duracion": "2 horas",
+    "sintesis": "\"Fijación de cañerías",
+    "entidad": " soportes y accesorios en instalaciones de agua y desagüe.\""
+  },
+  {
+    "n": "68",
+    "titulo": "Instaladores de red contra incendios",
+    "sector": "Construcciones Innovadoras",
+    "duracion": "2 horas",
+    "sintesis": "Sistemas de fijación para cañerías y equipos de protección contra incendios bajo altas exigencias.",
+    "entidad": "Fischer"
+  },
+  {
+    "n": "69",
+    "titulo": "Instaladores de muro cortina",
+    "sector": "Construcciones Innovadoras",
+    "duracion": "2 horas",
+    "sintesis": "Fijaciones para fachadas de vidrio y metal seguras y resistentes.",
+    "entidad": "Fischer"
+  },
+  {
+    "n": "70",
+    "titulo": "Profesionales de arquitectura",
+    "sector": "Construcciones Innovadoras",
+    "duracion": "2 horas",
+    "sintesis": "Integración de sistemas de fijación en proyectos con foco en diseño y funcionalidad.",
+    "entidad": "Fischer"
+  },
+  {
+    "n": "71",
+    "titulo": "Fijaciones para paneles solares",
+    "sector": "Construcciones Innovadoras",
+    "duracion": "1 hora",
+    "sintesis": "Instalación de estructuras para paneles solares resistentes a condiciones climáticas exigentes.",
+    "entidad": "Fischer"
+  }
+]
