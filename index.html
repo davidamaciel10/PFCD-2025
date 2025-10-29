@@ -200,9 +200,32 @@ const STORAGE_KEY = "cursos_inet_cenet";
 let cursos = loadCursos();
 
 function loadCursos(){
-  try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || [] }
-  catch { return [] }
+  try { 
+    return JSON.parse(localStorage.getItem(STORAGE_KEY)) || []; 
+  } catch { 
+    return []; 
+  }
 }
+
+// ===== Cargar cursos iniciales desde un archivo JSON remoto (si no hay en localStorage)
+async function fetchCursosRemotos() {
+  if (cursos.length > 0) return; // si ya hay locales, no los reemplaza
+  try {
+    const res = await fetch('cursos_backup.json'); // o 'data/cursos_backup.json'
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    cursos = data;
+    saveCursos(cursos);
+    buildFilters();
+    filtrar();
+    buildCategorias();
+    console.log("[OK] Cursos cargados desde JSON remoto");
+  } catch (err) {
+    console.warn("No se pudo cargar el JSON remoto:", err);
+  }
+}
+fetchCursosRemotos();
+
 function saveCursos(arr){ localStorage.setItem(STORAGE_KEY, JSON.stringify(arr || [])); }
 
 /* ===== Utilidades ===== */
